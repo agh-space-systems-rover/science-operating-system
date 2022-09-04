@@ -28,6 +28,7 @@ Usage:
 ```./sos.py [FILES...]```
 
 In shell:
+
 `start MM:SS` - Setup rover starting time
 
 `go MM:SS` - Go to MM:SS since start

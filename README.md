@@ -21,6 +21,7 @@ Tool for ERC Science Reporting
 
 Instalation:
 ```pip install moviepy```
+
 ```chmod +x sos.py```
 
 Usage:
@@ -28,7 +29,9 @@ Usage:
 
 In shell:
 `start MM:SS` - Setup rover starting time
+
 `go MM:SS` - Go to MM:SS since start
+
 `exit` - Exit
 
 Good luck with your kamulec.
